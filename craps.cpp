@@ -1,3 +1,8 @@
+#include <iostream>
+#include <iomanip>
+#include "patients.h"
+
+
 int flipCoin() {
   int coin = 0;
   coin = rand()%2;
