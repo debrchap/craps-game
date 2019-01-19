@@ -1,6 +1,6 @@
 #include <iostream>
 #include <iomanip>
-#include "patients.h"
+#include "craps.h"
 
 
 int flipCoin() {
