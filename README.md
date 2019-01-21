@@ -10,6 +10,6 @@ History:
 
 DC | 10/09/2018 | Created program
 
-DC | 1/18/2019  | Rewrote program in software format
+DC | 1/18/2019  | Working to restyle program in software format
 
 *******************************************************************
